@@ -1,0 +1,11 @@
+li {background-color: #e6b3ff;color: white}
+body {background: #ffffcc}
+p {color:  #ff6666}
+body {font-family: "century schoolbook"}
+h4 {color:#5c5cd6}
+h3 {border:2px ridge pink}
+img {border-radius: 50%}
+h4{border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;}
